@@ -8,5 +8,8 @@
 *.iml
 *.iws
 
+#MVN
+target/
+
 # Mac
 .DS_Store
