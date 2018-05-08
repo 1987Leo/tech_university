@@ -1,4 +1,4 @@
-package com.datio.techu.exercise1;
+package com.datio.academy.exercise1;
 
 import org.junit.Assert;
 import org.junit.Test;
